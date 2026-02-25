@@ -10,3 +10,4 @@ bcryptjs → hash password
 
 pg → connexion PostgreSQL
 
+nodemon → auto restart serveur
